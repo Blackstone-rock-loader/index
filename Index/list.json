@@ -1,0 +1,16 @@
+{
+    "modid": {
+      "type": {
+        "Host": false,
+        "Roles": true,
+        "Cosmetics": true
+      },
+      "downloadlink": "placeholder",
+      "hash": "placeholder",
+      "icon": "placeholder",
+      "version": "1.0.0",
+      "name": "Example Mod",
+      "description": "This mod is used to be an example and such"
+    }
+  }
+  
