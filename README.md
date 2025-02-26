@@ -1,2 +1,2 @@
-# index
+# Blackstone Index
 The mod's index
